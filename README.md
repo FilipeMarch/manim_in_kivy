@@ -59,6 +59,6 @@ I you want to make sure ffmpeg is not used, go to `manim.scene.scene_file_writer
             )
 ```
 
-
+Obviously the whole approach is not optimal and a lot of improvements can be done, this is just a minimal runnable example and feel free to improve it, I will probably improve it in the future.
 
 
